@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CabukKadir10
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Blockchain
 - 📫 How to reach me cabuk0539@gmail.com
 
 <!---
